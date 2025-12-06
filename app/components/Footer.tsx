@@ -35,7 +35,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-6 text-center">
           <p className="text-xs text-gray-500">
-            © 2024 Boostark. Built with Next.js, TypeScript & Claude AI.
+            © 2025 Boostark. Built with Next.js, TypeScript & Claude AI.
           </p>
           <p className="text-xs text-gray-600 mt-2">
             Not financial advice. DYOR. Prices update every 60s via CoinGecko API.
